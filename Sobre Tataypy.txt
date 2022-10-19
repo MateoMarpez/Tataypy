@@ -1,0 +1,4 @@
+Tataypy, del Guaraní “cocinar”, es una sencilla aplicación web pensada para grupos escolares, clubes sociales, agrupaciones barriales, y distintos grupos de tamaño reducido que necesiten llevar un control más detallado de aquellas ventas gastronómicas que realicen de forma extraordinaria.
+La aplicación ha sido desarrollada utilizando los framework Django (backend) y React (frontend).
+Si bien el presente código es funcional, este repositorio aún no ha sido preparado para brindar una versión funcional del proyecto. Por lo cual no dispone de un documento de requerimientos, ni instrucciones de instalación.
+ 
